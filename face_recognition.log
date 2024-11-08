@@ -1,0 +1,166 @@
+2024-11-06 16:03:39,715:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:03:39,718:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:03:39,723:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:03:41,174:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:03:41,176:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:03:41,180:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:04:38,621:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:04:38,623:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:04:38,627:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:04:41,654:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:04:41,656:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:04:41,659:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:05:34,600:INFO:새로운 얼굴 등록: ㅇㅇㅇ
+2024-11-06 16:05:39,859:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:05:39,862:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:05:39,866:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:17:52,785:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:17:52,787:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:17:52,791:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:17:54,678:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:17:54,680:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:17:54,684:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:18:13,183:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:18:13,186:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:18:13,190:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:21:49,983:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:21:49,985:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:21:49,989:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:22:03,246:INFO:새로운 얼굴 등록: 형준
+2024-11-06 16:22:08,826:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:22:08,829:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:22:08,833:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:22:38,919:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:22:38,923:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:22:38,926:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:24:09,904:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:24:09,907:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:24:09,910:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:24:17,552:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:24:17,555:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:24:17,558:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:24:18,418:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:24:18,420:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:24:18,424:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:24:34,791:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:24:34,795:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:24:34,798:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:25:46,007:INFO:새로운 얼굴 등록: 선아
+2024-11-06 16:25:55,407:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:25:55,409:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:25:55,414:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:32:41,547:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:32:41,550:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:32:41,553:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:33:49,338:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:33:49,342:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:33:49,346:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:33:55,818:INFO:사용자 삭제: 2
+2024-11-06 16:34:10,347:INFO:사용자 이름 업데이트: ID 1, 새 이름 조형준
+2024-11-06 16:34:16,554:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:34:16,558:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:34:16,562:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:34:40,692:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:34:40,694:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:34:40,699:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:34:41,793:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:34:41,795:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:34:41,799:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:45:08,803:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:45:08,806:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:45:08,809:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:45:11,509:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:45:11,512:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:45:11,518:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 16:48:12,597:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 16:48:12,614:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 16:48:12,618:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:12:29,836:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:12:29,839:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:12:29,843:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:12:31,412:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:12:31,414:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:12:31,418:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:12:33,978:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-06 17:12:33,978:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-06 17:13:30,597:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:13:30,599:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:13:30,603:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:13:31,387:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:13:31,390:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:13:31,394:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:13:33,810:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-06 17:13:33,810:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-06 17:15:34,433:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:15:34,435:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:15:34,439:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:16:15,898:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:16:15,901:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:16:15,905:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:16:17,324:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:16:17,326:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:16:17,330:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:16:19,948:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-06 17:16:19,948:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-06 17:16:49,722:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:16:49,726:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:16:49,730:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:17:27,758:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:17:27,764:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:17:27,767:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:17:40,571:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:17:40,573:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:17:40,576:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:17:43,108:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-06 17:17:43,108:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-06 17:23:27,334:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:23:27,337:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:23:27,341:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:23:28,612:INFO:MySQL 데이터베이스에 연결됨
+2024-11-06 17:23:28,614:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-06 17:23:28,618:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-06 17:23:31,150:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-06 17:23:31,150:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-07 09:49:24,891:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:49:24,895:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:49:24,899:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:49:26,426:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:49:26,429:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:49:26,433:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:49:29,031:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-07 09:49:29,031:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-07 09:50:57,513:INFO:사용자 삭제: 1
+2024-11-07 09:50:59,377:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:50:59,382:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:50:59,389:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:57:07,197:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:57:07,200:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:57:07,205:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:57:08,578:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:57:08,580:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:57:08,585:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:57:11,076:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-07 09:57:11,077:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
+2024-11-07 09:57:45,241:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:57:45,246:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:57:45,250:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 09:58:07,416:INFO:새로운 얼굴 등록: 형준
+2024-11-07 09:58:30,114:INFO:새로운 얼굴 등록: 
+2024-11-07 09:58:47,394:INFO:사용자 삭제: 4
+2024-11-07 09:58:51,265:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 09:58:51,267:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 09:58:51,271:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 10:10:20,580:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 10:10:20,582:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 10:10:20,586:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 11:12:35,868:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 11:12:35,873:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 11:12:35,878:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 11:25:00,990:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 11:25:00,994:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 11:25:00,998:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 11:30:36,979:INFO:MySQL 데이터베이스에 연결됨
+2024-11-07 11:30:36,981:INFO:데이터베이스 'face_recognition_db' 생성 완료 또는 이미 존재함
+2024-11-07 11:30:36,985:INFO:'users' 테이블 생성 완료 또는 이미 존재함
+2024-11-07 11:30:45,394:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BioBrain\\Desktop\\WS\\WORK\\test2\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-11-07 11:30:45,394:INFO:Using writeable comtypes cache directory: 'C:\Users\BioBrain\Desktop\WS\WORK\test2\Lib\site-packages\comtypes\gen'
